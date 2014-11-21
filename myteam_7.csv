@@ -1,14 +1,14 @@
-,Name,Team,Role,Age,Country,PR,PG,SF,PT,MIN,C,S,R,T,%,SC,R.1,T.1,%.1,R.2,T.2,%.2,Off,Dif,Tot,Dat,Sub,Per,Rec,Ass,Lega,OER,Adp,Val,Price
-13,Mordente Marco,Pasta Reggia Caserta,Guardia,36, ITA, , , ,3.7 ,23.5 ,2.8 ,2.3 ,0.2 ,1.7 , 10.0 ,0.0 ,1.0 ,2.2 , 46.2 ,0.3 ,0.3 , 100.0 ,0.8 ,1.7 ,2.5 ,0.0 ,0.2 ,1.3 ,0.7 ,2.2 ,4.3,0.731 ,1.5 ,-2.8 ,4300.0
-20,Cuccarolo Gino,Granarolo Bologna,Centro,27, ITA, , , ,2.0 ,6.5 ,1.0 ,0.8 ,0.8 ,1.3 , 62.5 ,0.3 ,0.0 ,0.0 , 0.0 ,0.3 ,0.7 , 50.0 ,0.8 ,1.2 ,2 ,0.3 ,0.0 ,1.0 ,0.0 ,0.2 ,2.5,0.503 ,-0.8 ,-1.8 ,2500.0
-33,Kaukenas Rimantas,Grissin Bon Reggio Emilia,Guardia,38, LIT, , , ,14.5 ,28.0 ,2.5 ,2.5 ,3.3 ,5.3 , 62.5 ,0.0 ,1.8 ,3.7 , 50.0 ,2.3 ,2.7 , 87.5 ,0.5 ,1.5 ,2 ,0.2 ,0.0 ,3.0 ,1.0 ,2.5 ,13.0,1.139 ,0.5 ,3.5 ,13000.0
-41,Pecile Andrea,Upea Capo d'Orlando,Playmaker,35, ITA, , , ,3.0 ,18.2 ,1.2 ,2.2 ,0.5 ,2.0 , 25.0 ,0.0 ,0.3 ,1.7 , 20.0 ,1.0 ,1.0 , 100.0 ,0.2 ,2.5 ,2.7 ,0.0 ,0.3 ,1.5 ,0.7 ,1.0 ,3.7,0.388 ,0.2 ,-1.7 ,3700.0
-93,De Gennaro Matteo,Enel Brindisi,Guardia,18, ITA, , , ,3.0 ,2.0 ,0.0 ,0.0 ,0.0 ,0.0 , 0.0 ,0.0 ,1.0 ,1.0 , 100.0 ,0.0 ,0.0 , 0.0 ,0.0 ,0.0 ,0 ,0.0 ,0.0 ,0.0 ,0.0 ,0.0 ,3.0,3.000 ,0.0 ,4.0 ,3000.0
-100,Michelori Andrea,Pasta Reggia Caserta,Ala/Centro,37, ITA, , , ,5.0 ,17.8 ,3.3 ,3.2 ,1.7 ,4.2 , 40.0 ,0.0 ,0.0 ,0.0 , 0.0 ,1.7 ,3.8 , 43.5 ,1.8 ,1.5 ,3.3 ,0.3 ,0.8 ,1.0 ,1.0 ,0.3 ,3.3,0.710 ,0.3 ,1.2 ,3300.0
-112,Cusin Marco,Vanoli Cremona,Centro,30, ITA, , , ,1.0 ,5.5 ,0.0 ,0.0 ,0.5 ,0.5 , 100.0 ,0.0 ,0.0 ,0.0 , 0.0 ,0.0 ,0.0 , 0.0 ,0.5 ,0.5 ,1 ,0.0 ,0.0 ,0.0 ,0.0 ,0.5 ,2.5,1.000 ,0.5 ,-2.5 ,2500.0
-148,Johnson-Odom Darius,Acqua Vitasnella CantÃ¹,Playmaker,25, USA, , , ,16.8 ,32.5 ,2.0 ,4.3 ,4.2 ,8.3 , 50.0 ,0.5 ,1.7 ,5.5 , 30.3 ,3.5 ,4.8 , 72.4 ,0.2 ,3.0 ,3.2 ,0.3 ,0.8 ,4.2 ,1.2 ,4.5 ,14.0,0.821 ,1.5 ,-1.3 ,14000.0
-161,Hunt Dario,Upea Capo d'Orlando,Centro,25, USA, , , ,10.3 ,24.3 ,2.8 ,2.2 ,4.8 ,8.0 , 60.4 ,2.3 ,0.0 ,0.0 , 0.0 ,0.7 ,2.3 , 28.6 ,2.8 ,5.8 ,8.6 ,1.0 ,0.7 ,3.0 ,0.5 ,1.0 ,12.3,0.820 ,-1.5 ,-3.3 ,12300.0
-162,D'Ercole Lorenzo,Acea Roma,Play/Guardia,27, , , , ,1.5 ,18.5 ,1.5 ,1.2 ,0.2 ,1.3 , 12.5 ,0.0 ,0.2 ,2.0 , 8.3 ,0.7 ,0.8 , 80.0 ,0.3 ,1.0 ,1.3 ,0.0 ,0.0 ,0.5 ,0.8 ,0.5 ,0.2,0.449 ,0.8 ,-5.7 ,200.0
-166,Cervi Riccardo,Grissin Bon Reggio Emilia,Centro,23, ITA, , , ,9.3 ,25.8 ,3.0 ,2.3 ,3.7 ,5.0 , 73.3 ,2.3 ,0.0 ,0.0 , 0.0 ,2.0 ,3.3 , 60.0 ,2.3 ,2.5 ,4.8 ,1.5 ,0.3 ,1.7 ,0.7 ,0.7 ,11.7,1.119 ,-0.3 ,5.2 ,11700.0
-178,Okoye Stanley,Openjobmetis Varese,Ala,24, USA, , , ,6.6 ,20.6 ,3.0 ,1.8 ,2.4 ,4.0 , 60.0 ,0.2 ,0.2 ,1.0 , 20.0 ,1.2 ,1.4 , 85.7 ,2.4 ,4.0 ,6.4 ,0.4 ,0.4 ,1.6 ,0.4 ,0.6 ,8.6,0.950 ,-0.6 ,0.4 ,8600.0
-202,Rautins Andy,Openjobmetis Varese,Guardia,28, USA, , , ,14.2 ,33.2 ,2.7 ,1.5 ,0.5 ,2.7 , 18.8 ,0.0 ,4.2 ,8.0 , 52.1 ,0.7 ,1.0 , 66.7 ,0.2 ,3.8 ,4 ,0.0 ,0.0 ,1.7 ,1.0 ,1.2 ,11.2,1.032 ,0.5 ,-1.0 ,11200.0
+,Name,Team,Role,Age,Lega,Price
+13,Mordente Marco,Pasta Reggia Caserta,Guardia,36,4.3,4300.0
+20,Cuccarolo Gino,Granarolo Bologna,Centro,27,2.5,2500.0
+33,Kaukenas Rimantas,Grissin Bon Reggio Emilia,Guardia,38,13.0,13000.0
+41,Pecile Andrea,Upea Capo d'Orlando,Playmaker,35,3.7,3700.0
+93,De Gennaro Matteo,Enel Brindisi,Guardia,18,3.0,3000.0
+100,Michelori Andrea,Pasta Reggia Caserta,Ala/Centro,37,3.3,3300.0
+112,Cusin Marco,Vanoli Cremona,Centro,30,2.5,2500.0
+148,Johnson-Odom Darius,Acqua Vitasnella CantÃ¹,Playmaker,25,14.0,14000.0
+161,Hunt Dario,Upea Capo d'Orlando,Centro,25,12.3,12300.0
+162,D'Ercole Lorenzo,Acea Roma,Play/Guardia,27,0.2,200.0
+166,Cervi Riccardo,Grissin Bon Reggio Emilia,Centro,23,11.7,11700.0
+178,Okoye Stanley,Openjobmetis Varese,Ala,24,8.6,8600.0
+202,Rautins Andy,Openjobmetis Varese,Guardia,28,11.2,11200.0
