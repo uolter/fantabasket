@@ -9,8 +9,8 @@ import re
 from datetime import datetime
 
 
-CSV_IN_FILE_NAME = 'players.csv'
-CSV_OUT_FILE_NAME = 'profiles.csv'
+CSV_IN_FILE_NAME = 'data/players.csv'
+CSV_OUT_FILE_NAME = 'data/profiles_7.csv'
 
 profiles = []
 
@@ -30,16 +30,27 @@ class ProfileReader(Thread):
 
     def _get_role(self, soup):
 
-        role = soup.find_all('div', class_ ='role fl mt8')
-        return role[0].text
+        try:
+            role = soup.find_all('div', class_ ='role fl mt8')
+            return role[0].text
+        except IndexError, e:
+            print e, role
 
     def _get_age(self, soup):
 
         birthday = soup.find(text=re.compile("Data di Nascita"))
         birthday = birthday.find_next('td')
         birthday = birthday.text[-10:11]
-        delta = datetime.now() - datetime.strptime(birthday, "%d/%m/%Y") 
-        return delta.days / 360
+        try:
+            delta = datetime.now() - datetime.strptime(birthday, "%d/%m/%Y") 
+
+            return delta.days / 360
+        except AttributeError, e:
+            print e.message
+            return 0
+        except UnicodeEncodeError, e:
+            print e.message
+            return 0
 
     def _get_country(self, soup):
 
@@ -106,6 +117,8 @@ def save_csv(players, file_name):
     
 def main():
 
+    print 'start reading profiles ', datetime.now()
+
     threads = []
     with open(CSV_IN_FILE_NAME, 'rb') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
@@ -121,6 +134,8 @@ def main():
 
     for t in threads:
         t.join()
+
+    print 'end reading profiles ', datetime.now()
 
     save_csv(profiles, CSV_OUT_FILE_NAME)
 
